@@ -1,3 +1,20 @@
-# My Awesome Book
+# 序言
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+## Laravel 项目开发笔记
+
+本书全程记录使用 Laravel 开发「华商微赚」项目的过程，从环境、工具和技术等方面进行清晰细致的 Laravel 项目开发流程整理，目的是提高以后项目开发的效率和质量。
+
+## 适用人群
+
+本书适用于有一定网页制作技术基础，但是未掌握现代化项目开发流，对 Laravel 框架和全栈技术感兴趣的同学。
+
+## 本书特色
+
+* 使用 Laravel，优雅而强大的 PHP 主流框架，拥抱最新技术潮流；
+* 全栈开发，从前端到后端，从功能到用户体验，完整体验项目开发流程；
+* 最佳实践，精益求精，从各方面细节培养良好的技术习惯；
+* 项目完整，从无到有一步步开发出「华商微赚」WEB APP。
+
+## 致谢
+
+1. 感谢 Laravel China 社区的 Summer，他所写的「Laravel 实战教程」系列电子书对作者帮助极大，本书的思路和行文主要也是参考自这些书籍。
