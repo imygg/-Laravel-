@@ -20,15 +20,11 @@ GitBook allows you to organize your book into chapters, each chapter is stored i
 
 我
 
-杨   
+杨
 
 要
 
 工
 
 式
-
-
-
-
 
